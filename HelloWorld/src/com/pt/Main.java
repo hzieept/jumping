@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("x");
 		System.out.println("fsdfaf");
 		System.out.println("xxx");
+		System.out.println("xx");
 	}
 }
